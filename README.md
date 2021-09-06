@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mutatoNomine
+- 👀 I’m interested in learning OOP and have embarked on trying to understand Python.
+- 🌱 I’m currently retired, but had done Fortran and QBasic in my time.
+- 💞️ I’m looking to expand my knowledge, so that when grand daughter asks about coding, I CAN help.
+- 📫 How to reach me avs@bahrooz.co.za
